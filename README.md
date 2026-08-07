@@ -30,3 +30,10 @@ e)
 <img width="771" height="623" alt="image" src="https://github.com/user-attachments/assets/0f3696f0-bc0b-41ac-8f35-82bbfe65b8fe" />
 <img width="773" height="477" alt="image" src="https://github.com/user-attachments/assets/c253d87b-4fbb-4a9b-80da-b4539948a9f2" />
 <img width="771" height="517" alt="image" src="https://github.com/user-attachments/assets/871c96fa-9c49-4103-a49b-e716e15c0fea" />
+
+Ejercicio 3
+
+a)
+<img width="775" height="687" alt="image" src="https://github.com/user-attachments/assets/750d8d14-6767-4514-857e-93d873403b50" />
+<img width="770" height="518" alt="image" src="https://github.com/user-attachments/assets/840e3fb9-5714-4b8f-8708-c3feebc62a01" />
+<img width="776" height="519" alt="image" src="https://github.com/user-attachments/assets/b5e43a5c-3f16-4fc0-91e8-7726919d27e7" />
