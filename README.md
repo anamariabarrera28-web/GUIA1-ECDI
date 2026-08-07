@@ -37,3 +37,8 @@ a)
 <img width="775" height="687" alt="image" src="https://github.com/user-attachments/assets/750d8d14-6767-4514-857e-93d873403b50" />
 <img width="770" height="518" alt="image" src="https://github.com/user-attachments/assets/840e3fb9-5714-4b8f-8708-c3feebc62a01" />
 <img width="776" height="519" alt="image" src="https://github.com/user-attachments/assets/b5e43a5c-3f16-4fc0-91e8-7726919d27e7" />
+[Ejercicio 3 - GeoGebra](Ejercicio1.ggb)
+
+b)
+P_0=3000
+P=3, cae en (2,∞) donde P'<0. Decrece hacia P=2 (2000 ejemplares)
