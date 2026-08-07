@@ -40,5 +40,24 @@ a)
 [Ejercicio 3 - GeoGebra](Ejercicio1.ggb)
 
 b)
-P_0=3000
+P₀=3000
 P=3, cae en (2,∞) donde P'<0. Decrece hacia P=2 (2000 ejemplares)
+
+c)
+P₀=1500
+P=1.5, cae en (1,2) donde P'>0. Crece hacia P=2 (2000 ejemplares)
+
+d)
+P₀=500
+P=0.5, cae en (1,0) donde P'<0. Decrece hacia P=0 (extinguiéndose)
+
+e)
+P₀=900
+P=0.9, cae en (0,1) donde P'<0. No, decrece hacia 0, entonces no puede llegar a 1100
+
+Ejercicio 4
+
+Se factoriza para que sea mas fácil: 3P-2P²=P(3-2P)
+<img width="773" height="577" alt="image" src="https://github.com/user-attachments/assets/1fb48b43-1578-4b2a-9165-4cc8c38b4aab" />
+<img width="775" height="469" alt="image" src="https://github.com/user-attachments/assets/614572e3-9f17-4850-bda2-594b2b553dc1" />
+<img width="774" height="512" alt="image" src="https://github.com/user-attachments/assets/86624887-64eb-48d4-bf05-994e5a4dca1b" />
