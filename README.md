@@ -57,7 +57,21 @@ P=0.9, cae en (0,1) donde P'<0. No, decrece hacia 0, entonces no puede llegar a 
 
 Ejercicio 4
 
+a)
 Se factoriza para que sea mas fácil: 3P-2P²=P(3-2P)
 <img width="773" height="577" alt="image" src="https://github.com/user-attachments/assets/1fb48b43-1578-4b2a-9165-4cc8c38b4aab" />
 <img width="775" height="469" alt="image" src="https://github.com/user-attachments/assets/614572e3-9f17-4850-bda2-594b2b553dc1" />
 <img width="774" height="512" alt="image" src="https://github.com/user-attachments/assets/86624887-64eb-48d4-bf05-994e5a4dca1b" />
+[Ejercicio 4 - GeoGebra](Ejercicio1.ggb)
+
+b)
+P₀=2000
+P=2, cae en (1.5,∞) donde P'<0. Decrece hacia P=1.5 (1500 ejemplares)
+
+c)
+P₀=100
+P=0.1, cae en (0.1,5) donde P'>0. Crece hacia P=1.5 (1500 ejemplares)
+
+d)
+P₀=1500
+Es exactamente el punto de equilibrio. La publicación permanece constante en 1500 para siempre
