@@ -1,6 +1,8 @@
 # GUIA1-ECDI
 Ejercicio 1
+
 [Ejercicio 1 - GeoGebra](Ejercicio1.ggb)
+
 Ejercicio 2
 a)
 <img width="921" height="781" alt="image" src="https://github.com/user-attachments/assets/75f5de3a-49aa-424e-9d74-3867b91f1a05" />
