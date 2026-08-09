@@ -1,16 +1,22 @@
 # GUIA1-ECDI
 Guía de trabajo 1: Campo de pendientes
 1. Usando un asistente computacional, realice el campo de pendientes junto con la gráfica de la familia de soluciones de la ecuación diferencial. Además, realice la gráfica de la solución particular para el problema de valor inicial dado, si no tiene condición, elija usted una.
+
 a) y′ = −y−sin(x), con y(0) = 1
 [Ejercicio 1a - GeoGebra](Ejercicio1a.ggb)
+
 b) y′ = x+y, con y(−2) = 2
 [Ejercicio 1b - GeoGebra](Ejercicio1b.ggb)
+
 c) y′ = −x2+sin(y)
 [Ejercicio 1c - GeoGebra](Ejercicio1c.ggb)
+
 d) (x2 +1)y′ +3xy = 6x
 [Ejercicio 1d - GeoGebra](Ejercicio1d.ggb)
+
 e) y′ = xey
 [Ejercicio 1e - GeoGebra](Ejercicio1e.ggb)
+
 f ) y′ = x−y con y(1) = 1
 [Ejercicio 1f - GeoGebra](Ejercicio1f.ggb)
 
