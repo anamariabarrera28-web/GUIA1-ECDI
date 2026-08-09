@@ -146,9 +146,9 @@ Considere t en años
 a) Use el diagrama de fase de la ecuación para determinar el comportamiento de la población de la especie.
 
 Se factoriza para que sea mas fácil: 3P-2P²=P(3-2P)
-<img width="773" height="577" alt="image" src="https://github.com/user-attachments/assets/1fb48b43-1578-4b2a-9165-4cc8c38b4aab" />
-<img width="775" height="469" alt="image" src="https://github.com/user-attachments/assets/614572e3-9f17-4850-bda2-594b2b553dc1" />
-<img width="774" height="512" alt="image" src="https://github.com/user-attachments/assets/86624887-64eb-48d4-bf05-994e5a4dca1b" />
+<img width="770" height="401" alt="image" src="https://github.com/user-attachments/assets/eddd0a27-b67a-4817-a50b-03486264964b" />
+<img width="774" height="173" alt="image" src="https://github.com/user-attachments/assets/5c03bcd2-1f5a-4960-b02f-62549c930f0a" />
+<img width="776" height="216" alt="image" src="https://github.com/user-attachments/assets/37abe589-72f3-475e-a1ca-b0e7354f37c2" />
 
 [Ejercicio 4 - GeoGebra](Ejercicio4.ggb)
 
