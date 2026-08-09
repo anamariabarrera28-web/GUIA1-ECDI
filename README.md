@@ -3,8 +3,7 @@
 soluciones de la ecuación diferencial. Además, realice la gráfica de la solución particular para el problema
 de valor inicial dado, si no tiene condición, elija usted una.
 a) y′ = −y−sin(x), con y(0) = 1
-(Ejercicio1a.ggb)
-[Ejercicio 1 - GeoGebra](Ejercicio1.ggb)
+[Ejercicio 1a - GeoGebra](Ejercicio1a.ggb)
 
 Ejercicio 2
 
