@@ -108,27 +108,35 @@ Entonces, y = 1 inestable, y = 2 estable.
 dP/dt = P(P−1)(2−P)
 describe la tasa de cambio de la población de la especie en el instante t.
 
-a)
-<img width="775" height="687" alt="image" src="https://github.com/user-attachments/assets/750d8d14-6767-4514-857e-93d873403b50" />
-<img width="770" height="518" alt="image" src="https://github.com/user-attachments/assets/840e3fb9-5714-4b8f-8708-c3feebc62a01" />
-<img width="776" height="519" alt="image" src="https://github.com/user-attachments/assets/b5e43a5c-3f16-4fc0-91e8-7726919d27e7" />
+a) Realice el diagrama de fase para la ecuaci´on diferencial.
+<img width="777" height="447" alt="image" src="https://github.com/user-attachments/assets/52e58f35-9260-420a-995e-0e4ab8730af6" />
+<img width="776" height="198" alt="image" src="https://github.com/user-attachments/assets/34b8700b-91a2-44ae-a441-7501ca6507db" />
+<img width="773" height="198" alt="image" src="https://github.com/user-attachments/assets/572f91ae-5dcf-4d7d-bac2-49e6b40664c7" />
 
 [Ejercicio 3 - GeoGebra](Ejercicio3.ggb)
 
-b)
+b) Si la población inicial es de 3000 ejemplares, ¿Qué puede decirse acerca de la población después de mucho tiempo?
+
 P₀=3000
+
 P=3, cae en (2,∞) donde P'<0. Decrece hacia P=2 y converge a 2000 ejemplares
 
-c)
+c) ¿Qué ocurre si la población inicial es de 1500?
+
 P₀=1500
+
 P=1.5, cae en (1,2) donde P'>0. Crece hacia P=2 y tiende a 2000 ejemplares
 
-d)
+d) ¿Cuál es el comportamiento de la población, si inicialmente habían 500 ejemplares?
+
 P₀=500
+
 P=0.5, cae en (1,0) donde P'<0. Decrece hacia P=0, extinguiéndose
 
-e)
+e) ¿Puede una población inicial de 900 ejemplares crecer hasta 1100?
+
 P₀=900
+
 P=0.9, cae en (0,1) donde P'<0. No, decrece hacia 0, entonces no puede llegar a 1100
 
 4. Se sabe que la tasa de cambio de la población de cierta especie (en miles) está dada por la ecuación
