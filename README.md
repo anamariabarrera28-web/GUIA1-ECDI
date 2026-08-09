@@ -1,13 +1,22 @@
 # GUIA1-ECDI
-1. Usando un asistente computacional, realice el campo de pendientes junto con la gráfica de la familia de
-soluciones de la ecuación diferencial. Además, realice la gráfica de la solución particular para el problema
-de valor inicial dado, si no tiene condición, elija usted una.
+Guía de trabajo 1: Campo de pendientes
+1. Usando un asistente computacional, realice el campo de pendientes junto con la gráfica de la familia de soluciones de la ecuación diferencial. Además, realice la gráfica de la solución particular para el problema de valor inicial dado, si no tiene condición, elija usted una.
 a) y′ = −y−sin(x), con y(0) = 1
 [Ejercicio 1a - GeoGebra](Ejercicio1a.ggb)
+b) y′ = x+y, con y(−2) = 2
+[Ejercicio 1b - GeoGebra](Ejercicio1b.ggb)
+c) y′ = −x2+sin(y)
+[Ejercicio 1c - GeoGebra](Ejercicio1c.ggb)
+d) (x2 +1)y′ +3xy = 6x
+[Ejercicio 1d - GeoGebra](Ejercicio1d.ggb)
+e) y′ = xey
+[Ejercicio 1e - GeoGebra](Ejercicio1e.ggb)
+f ) y′ = x−y con y(1) = 1
+[Ejercicio 1f - GeoGebra](Ejercicio1f.ggb)
 
-Ejercicio 2
+2. Usando el diagrama de fase, realizar el análisis de los puntos críticos para cada una de las siguientes ecuaciones autónomas.
 
-a)
+a) y′ = y(3−y)(y−2)
 <img width="921" height="781" alt="image" src="https://github.com/user-attachments/assets/75f5de3a-49aa-424e-9d74-3867b91f1a05" />
 <img width="921" height="758" alt="image" src="https://github.com/user-attachments/assets/6eea134e-ef75-45b6-a60c-7badf693eb71" />
 <img width="921" height="617" alt="image" src="https://github.com/user-attachments/assets/7a3ab14e-1f0d-4dcf-93c0-d1888ef7ef0d" />
