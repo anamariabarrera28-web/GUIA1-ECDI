@@ -24,9 +24,22 @@ f ) y′ = x−y con y(1) = 1
 
 a) y′ = y(3−y)(y−2)
 <img width="775" height="449" alt="image" src="https://github.com/user-attachments/assets/88a3593d-63ac-4e6f-a88b-7682990061df" />
+<img width="772" height="193" alt="image" src="https://github.com/user-attachments/assets/5fac4b9d-1193-49d6-90b4-ff1c96d27690" />
+<img width="776" height="200" alt="image" src="https://github.com/user-attachments/assets/6fc224ef-36c8-459f-a249-25eb1e832230" />
+
 Puntos críticos y=0, y=2, y=3
 
-b)
+Para y = −2: y' = (−2)(3−(−2))(−2−2) = (−2)(5)(−4) = 40 (↑), intervalo (−∞, 0).
+
+Para y = 1: y' = (1)(3−1)(1−2) = (1)(2)(−1) = −2 (↓), intervalo (0, 2).
+
+Para y = 2,5: y' = (2,5)(3−2,5)(2,5−2) = (2,5)(0,5)(0,5) = 0,625 (↑), intervalo (2, 3).
+
+Para y = 4: y' = (4)(3−4)(4−2) = (4)(−1)(2) = −8 (↓), intervalo (3, ∞).
+
+Entonces, y = 0 estable, y = 2 inestable, y = 3 estable.
+
+b) y′ = y2 −y3
 <img width="921" height="757" alt="image" src="https://github.com/user-attachments/assets/386e7001-51a5-4f65-8c8d-d0a0b0da8cec" />
 <img width="921" height="582" alt="image" src="https://github.com/user-attachments/assets/41183db7-24fe-45fb-aaa5-4c489ea28ef0" />
 <img width="921" height="538" alt="image" src="https://github.com/user-attachments/assets/7b1119f5-5e76-4067-b850-78a932cd43ff" />
