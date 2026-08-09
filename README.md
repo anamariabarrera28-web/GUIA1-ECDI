@@ -23,9 +23,8 @@ f ) y′ = x−y con y(1) = 1
 2. Usando el diagrama de fase, realizar el análisis de los puntos críticos para cada una de las siguientes ecuaciones autónomas.
 
 a) y′ = y(3−y)(y−2)
-<img width="921" height="781" alt="image" src="https://github.com/user-attachments/assets/75f5de3a-49aa-424e-9d74-3867b91f1a05" />
-<img width="921" height="758" alt="image" src="https://github.com/user-attachments/assets/6eea134e-ef75-45b6-a60c-7badf693eb71" />
-<img width="921" height="617" alt="image" src="https://github.com/user-attachments/assets/7a3ab14e-1f0d-4dcf-93c0-d1888ef7ef0d" />
+<img width="775" height="449" alt="image" src="https://github.com/user-attachments/assets/88a3593d-63ac-4e6f-a88b-7682990061df" />
+Puntos críticos y=0, y=2, y=3
 
 b)
 <img width="921" height="757" alt="image" src="https://github.com/user-attachments/assets/386e7001-51a5-4f65-8c8d-d0a0b0da8cec" />
