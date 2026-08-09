@@ -1,5 +1,14 @@
 # GUIA1-ECDI
-Guía de trabajo 1: Campo de pendientes
+## Campo de pendientes
+# Estudiante
+## Ana María Barrera Cárdenas
+# Docente
+## Ricardo Junior Cano Caro
+# Asignatura
+## Ecuaciones diferenciales
+# Universidad
+## Escuela Colombiana de Ingeniería Julio Garavito
+
 1. Usando un asistente computacional, realice el campo de pendientes junto con la gráfica de la familia de soluciones de la ecuación diferencial. Además, realice la gráfica de la solución particular para el problema de valor inicial dado, si no tiene condición, elija usted una.
 
 a) y′ = −y−sin(x), con y(0) = 1
