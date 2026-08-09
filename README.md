@@ -117,23 +117,26 @@ a)
 
 b)
 P₀=3000
-P=3, cae en (2,∞) donde P'<0. Decrece hacia P=2 (2000 ejemplares)
+P=3, cae en (2,∞) donde P'<0. Decrece hacia P=2 y converge a 2000 ejemplares
 
 c)
 P₀=1500
-P=1.5, cae en (1,2) donde P'>0. Crece hacia P=2 (2000 ejemplares)
+P=1.5, cae en (1,2) donde P'>0. Crece hacia P=2 y tiende a 2000 ejemplares
 
 d)
 P₀=500
-P=0.5, cae en (1,0) donde P'<0. Decrece hacia P=0 (extinguiéndose)
+P=0.5, cae en (1,0) donde P'<0. Decrece hacia P=0, extinguiéndose
 
 e)
 P₀=900
 P=0.9, cae en (0,1) donde P'<0. No, decrece hacia 0, entonces no puede llegar a 1100
 
-Ejercicio 4
+4. Se sabe que la tasa de cambio de la población de cierta especie (en miles) está dada por la ecuación
+dP/dt =3P−2P²
+Considere t en años
 
-a)
+a) Use el diagrama de fase de la ecuación para determinar el comportamiento de la población de la especie.
+
 Se factoriza para que sea mas fácil: 3P-2P²=P(3-2P)
 <img width="773" height="577" alt="image" src="https://github.com/user-attachments/assets/1fb48b43-1578-4b2a-9165-4cc8c38b4aab" />
 <img width="775" height="469" alt="image" src="https://github.com/user-attachments/assets/614572e3-9f17-4850-bda2-594b2b553dc1" />
@@ -141,14 +144,32 @@ Se factoriza para que sea mas fácil: 3P-2P²=P(3-2P)
 
 [Ejercicio 4 - GeoGebra](Ejercicio4.ggb)
 
-b)
+b) Si la población inicial es de 2000, ¿Qué ocurre con la población después de mucho tiempo?. Explique.
+
 P₀=2000
+
 P=2, cae en (1.5,∞) donde P'<0. Decrece hacia P=1.5 (1500 ejemplares)
 
-c)
+c) Si ahora se considera que la especie inició con cien especímenes, ¿Qué ocurre con la población después de mucho tiempo?
+
 P₀=100
+
 P=0.1, cae en (0.1,5) donde P'>0. Crece hacia P=1.5 (1500 ejemplares)
 
-d)
+d) ¿Qué es correcto afirmar de una población de 1500 ejemplares?
+
 P₀=1500
+
 Es exactamente el punto de equilibrio. La publicación permanece constante en 1500 para siempre
+
+e) Mediante análisis se concluye que la tasa de nacimientos es de 150 por cada trimestre y que mueren s ejemplares en ese mismo periodo, ¿Cuál es la ecuación diferencial que describe la tasa de cambio de la población de la especie anualmente?
+
+dP​/dτ=150P−sP²
+
+Como 1 año = 4 trimestres, y por regla de la cadena dP/dt = 4·(dP/dτ)
+
+dP​/dt=600P−4sP² (t en años)
+
+f ) Analice el comportamiento de las posibles soluciones, teniendo en cuenta esa tasa de muertes por trimestre
+
+Con dP/dt = P(600 − 4sP), los puntos críticos son P=0 (inestable) y P = 150/s, siendo estable. Es decir, la población tiende a estabilizarse en 150/s miles de ejemplares, entre más grande sea la tasa de mortalidad trimestral s, más baja será la población de equilibrio.
