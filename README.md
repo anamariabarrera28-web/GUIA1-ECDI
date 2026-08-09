@@ -1,6 +1,9 @@
 # GUIA1-ECDI
-Ejercicio 1
-
+1. Usando un asistente computacional, realice el campo de pendientes junto con la gráfica de la familia de
+soluciones de la ecuación diferencial. Además, realice la gráfica de la solución particular para el problema
+de valor inicial dado, si no tiene condición, elija usted una.
+a) y′ = −y−sin(x), con y(0) = 1
+(Ejercicio1a.ggb)
 [Ejercicio 1 - GeoGebra](Ejercicio1.ggb)
 
 Ejercicio 2
