@@ -89,6 +89,7 @@ Para y = 3: y' = (3)⁵−4(3)³−5(3)² = 243−108−45 = 90 (↑), intervalo
 Entonces, y = 0 semiestable, y ≈ 2,455 inestable.
 
 e) y' = (1−y)(y−2)³
+
 <img width="775" height="388" alt="image" src="https://github.com/user-attachments/assets/080b03c6-bc07-4e9b-b69d-39398e90f500" />
 <img width="775" height="155" alt="image" src="https://github.com/user-attachments/assets/ae5e16fc-ad2f-4adc-a026-97217cd0d26d" />
 <img width="774" height="198" alt="image" src="https://github.com/user-attachments/assets/26ac3117-5e9a-47ab-8794-dda7fa843d17" />
@@ -111,6 +112,7 @@ a)
 <img width="775" height="687" alt="image" src="https://github.com/user-attachments/assets/750d8d14-6767-4514-857e-93d873403b50" />
 <img width="770" height="518" alt="image" src="https://github.com/user-attachments/assets/840e3fb9-5714-4b8f-8708-c3feebc62a01" />
 <img width="776" height="519" alt="image" src="https://github.com/user-attachments/assets/b5e43a5c-3f16-4fc0-91e8-7726919d27e7" />
+
 [Ejercicio 3 - GeoGebra](Ejercicio3.ggb)
 
 b)
@@ -136,6 +138,7 @@ Se factoriza para que sea mas fácil: 3P-2P²=P(3-2P)
 <img width="773" height="577" alt="image" src="https://github.com/user-attachments/assets/1fb48b43-1578-4b2a-9165-4cc8c38b4aab" />
 <img width="775" height="469" alt="image" src="https://github.com/user-attachments/assets/614572e3-9f17-4850-bda2-594b2b553dc1" />
 <img width="774" height="512" alt="image" src="https://github.com/user-attachments/assets/86624887-64eb-48d4-bf05-994e5a4dca1b" />
+
 [Ejercicio 4 - GeoGebra](Ejercicio4.ggb)
 
 b)
